@@ -48,6 +48,6 @@
     "@miniflare/shared-test": "2.9.0",
     "miniflare": "2.9.0",
     "react-dom": "^18.1.0",
-    "vitest": "^0.23.1"
+    "vitest": "^4.1.8"
   }
 }
